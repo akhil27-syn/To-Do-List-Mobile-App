@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Simple To-Do</string>
+    <string name="add_task_hint">What do you need to do?</string>
+    <string name="add_button">Add</string>
+    <string name="empty_tasks_title">No tasks yet!</string>
+    <string name="empty_tasks_subtitle">Type a task above and press Add</string>
+    <string name="delete_task">Delete task</string>
+    <string name="clear_completed">Clear completed</string>
+    <string name="filter_all">All</string>
+    <string name="filter_active">Active</string>
+    <string name="filter_done">Done</string>
+</resources>

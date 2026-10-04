@@ -1,0 +1,6 @@
+{
+  "name": "Simple To-Do",
+  "description": "A clean, beginner-friendly to-do list app built with ViewModel and LiveData in Jetpack Compose.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
